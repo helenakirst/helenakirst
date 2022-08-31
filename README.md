@@ -1,6 +1,6 @@
 ### Hi there, my name is helena 👋
 
-<p>- 🔭 I’m currently working on custumer service at hospital regina</p>
+<p>- 🔭 I’m currently working as planner at Arezzo&CO</p>
 <p>- 🌱 I’m currently studying full stack development</p>
 <p>- 👯 I’m looking to collaborate on HTML projects</p>
 <p>- 🤔 My favorite programming language at the moment is HTML!!</p>
